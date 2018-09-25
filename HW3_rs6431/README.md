@@ -11,7 +11,7 @@
 ## Assignment3:
 * Discussing with Junjie in order to figuring out the what this assignment want us to do.
 
-* After fitering out useful data, group woel with Tanya in how to print out target information (further discussion about what is url-8, how to read Json in Python and what is loads function, how to use PPrint to let files shown better and how to filter informtaion from dict/list).
+* After fitering out useful data, group work with Tanya in how to print out target information (further discussion about what is url-8, how to read Json in Python and what is loads function, how to use PPrint to let files shown better and how to filter informtaion from dict/list).
 
 ## Assignment4:
 * Group work with Tanya to discuss how to transfer Json to Csv. Learned "Every key coding can be Googled! So, just try more Google!".
